@@ -1,1 +1,1 @@
-This is my project for April Month
+This is the repo to learn about github
